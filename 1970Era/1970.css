@@ -1,0 +1,60 @@
+.image :hover {
+box-shadow: 0 0 5px 5px #000000;
+}
+
+.image{
+display: table;
+float: left;
+padding: 1px;
+margin: 10px;
+border: solid 2px black;
+}
+
+ .column{
+float: left;
+width:325px;
+padding: 10px; 
+border: solid 5px black;
+margin: 13px;
+text-align:center;
+}
+
+body{
+background-image: url('5866d84ef21811b84a04b0dee1b7631f.jpg');
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+
+.back a{
+color: black;
+float:left;
+display:block;
+text-align: center;
+padding: 14px 16px;
+}
+
+.back a:hover{
+background-color:rgb(143, 143, 143);
+color:rgb(255, 255, 255);
+}
+
+.head{
+  background-color: white rgba(, 225, 225, 225.456);
+  padding:20px;
+  text-align: center;
+  color:#000000;
+  border: solid 3px black;
+}
+
+.type{
+  border: solid 2px black;
+  padding: 3px;
+  margin: 7px;
+}
+
+.innerpic{
+padding: 1px;
+margin: 5px
+}
